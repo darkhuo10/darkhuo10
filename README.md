@@ -11,11 +11,11 @@
 <h3 align="left">About me</h3>
 <ul>
   <li>I'm currently studying how to develop web apps</li>
-  <li>I know how to develop desktop and android apps</li>
+  <li>I know how to develop desktop and Android apps</li>
   <li>I like all kinds of software development</li>
-  <li>I'm interested in cibersecurity and quantum physics</li>
-  <li>I speak English, Spanish and a bit of Chineese</li>
-  <li>I'm from Spanish, but I was born in China</li>
+  <li>I'm interested in cybersecurity and quantum physics</li>
+  <li>I speak English, Spanish and a bit of Chinese </li>
+  <li>I'm from Spain, but I was born in China</li>
   <li>I absolutely love cats</li>
 </ul>
 
