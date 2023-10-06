@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Marina</h1>
 <h2 align="center">Aka Dark</h2>
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=darkhuo10&label=Profile%20views&color=0e75b6&style=flat" alt="darkhuo10" />
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=darkhuo10&label=Profile%20views&color=004f94&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/darkhuo10?color=004f94&style=for-the-badge&labelColor=5c5c5c" />
 </div>
 
 -Email: **marinaguanghua@gmail.com**<br>
