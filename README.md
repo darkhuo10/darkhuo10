@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Marina</h1>
-<h2 align="center">Aka Dark</h2>
+<h1 align="center">Hi there, I'm Dark</h1>
 
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=darkhuo10&label=Profile%20views&color=004f94&style=for-the-badge" />
