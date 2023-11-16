@@ -27,7 +27,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkhuo10"     height="30" width="40" />
   </a>
   <a href="https://twitter.com/darkhuo10" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darkhuo10"       height="30" width="40" />
+    <img align="center" src="https://seeklogo.com//images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="darkhuo10"       height="30" width="40" />
   </a>
   
 </div>
