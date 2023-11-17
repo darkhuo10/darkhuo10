@@ -1,11 +1,14 @@
-<h1 align="center">Hi there, I'm Dark</h1>
+<h1 align="center">Hi there, I'm Marina</h1>
+<h2 align="center">AKA Dark</h2>
 
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=darkhuo10&label=Profile%20views&color=004f94&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/darkhuo10?color=004f94&style=for-the-badge&labelColor=5c5c5c" />
 </div>
 
--Email: **darkhuoyt@gmail.com**<br>
+-Email: **marinaguanghua@gmail.com**<br>
+-Alternative mail: **darkhuoyt@gmail.com**<br>
+
 
 <h3 align="left">About me</h3>
 <ul>
