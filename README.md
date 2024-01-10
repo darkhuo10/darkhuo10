@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Marina</h1>
-<h2 align="center">AKA Dark</h2>
+<h1 align="center">Hi there, I'm Marina (aka Dark)</h1>
 
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=darkhuo10&label=Profile%20views&color=004f94&style=for-the-badge" />
@@ -8,8 +7,9 @@
 
 -Emails: **marinaguanghua@gmail.com** | **darkhuoyt@gmail.com**<br>
 
-<h3 align="left">About me</h3>
+# About me
 <ul>
+  <li> My name is Marina but I use Dark as a nikname on the Internet
   <li>I'm currently studying how to develop web apps</li>
   <li>I know how to develop desktop and Android apps</li>
   <li>I like all kinds of software development</li>
@@ -19,19 +19,18 @@
   <li>I absolutely love cats</li>
 </ul>
 
-<h3 align="left">Social Media</h3>
+# Social Media
 <div align="left">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina     guanghua pintado guerrero" height="30" width="40"/>
   <a href="https://www.linkedin.com/in/marina-guanghua-pintado-guerrero-a479ab268/" target="blank" style="text-decoration: none;">
   Marina Guanghua Pintado Guerrero</a>
 </div><br>
-
 <div align="left">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkhuo10"     height="30" width="40"/>
   <a href="https://instagram.com/darkhuo10" target="blank">@darkhuo10</a>
 </div>
 
-<h3 align="left">Languages & Tools</h3>
+# Languages & Tools
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
@@ -54,8 +53,7 @@
   <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" alt="spring" width="50" height="50"/> 
 </div>
 
-
-<h3 align="left">People I've worked with</h3>
-<ul>
-  <li></li>
-</ul>
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=darkhuo10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=darkhuo10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhuo10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
