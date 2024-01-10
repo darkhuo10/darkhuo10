@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/github/followers/darkhuo10?color=004f94&style=for-the-badge&labelColor=5c5c5c" />
 </div>
 
--Email: **marinaguanghua@gmail.com**<br>
--Alternative mail: **darkhuoyt@gmail.com**<br>
-
+-Emails: **marinaguanghua@gmail.com** | **darkhuoyt@gmail.com**<br>
 
 <h3 align="left">About me</h3>
 <ul>
@@ -23,16 +21,14 @@
 
 <h3 align="left">Social Media</h3>
 <div align="left">
-    <a href="https://www.linkedin.com/in/marina-guanghua-pintado-guerrero-a479ab268/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina     guanghua pintado guerrero" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/darkhuo10" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkhuo10"     height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/darkhuo10" target="blank">
-    <img align="center" src="https://seeklogo.com//images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="darkhuo10"       height="30" width="40" />
-  </a>
-  
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina     guanghua pintado guerrero" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/marina-guanghua-pintado-guerrero-a479ab268/" target="blank" style="text-decoration: none;">
+  Marina Guanghua Pintado Guerrero</a>
+</div><br>
+
+<div align="left">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkhuo10"     height="30" width="40"/>
+  <a href="https://instagram.com/darkhuo10" target="blank">@darkhuo10</a>
 </div>
 
 <h3 align="left">Languages & Tools</h3>
@@ -59,3 +55,7 @@
 </div>
 
 
+<h3 align="left">People I've worked with</h3>
+<ul>
+  <li></li>
+</ul>
