@@ -9,7 +9,7 @@
 
 # About me
 <ul>
-  <li> My name is Marina but I use Dark as a nikname on the Internet
+  <li> My name is Marina but I use Dark as a nickname on the Internet
   <li>I'm currently studying how to develop web apps</li>
   <li>I know how to develop desktop and Android apps</li>
   <li>I like all kinds of software development</li>
@@ -54,6 +54,8 @@
 </div>
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=darkhuo10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darkhuo10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhuo10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darkhuo10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"   height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkhuo10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
+</div>
+
