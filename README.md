@@ -21,12 +21,14 @@
 
 # Social Media
 <div align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marina     guanghua pintado guerrero" height="30" width="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         
+    alt="LinkedIn" height="30" width="30"/>
   <a href="https://www.linkedin.com/in/marina-guanghua-pintado-guerrero-a479ab268/" target="blank" style="text-decoration: none;">
   Marina Guanghua Pintado Guerrero</a>
 </div><br>
 <div align="left">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darkhuo10"     height="30" width="40"/>
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+     alt="Instagram" height="30" width="30"/>
   <a href="https://instagram.com/darkhuo10" target="blank">@darkhuo10</a>
 </div>
 
