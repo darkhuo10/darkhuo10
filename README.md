@@ -27,9 +27,12 @@
   Marina Guanghua Pintado Guerrero</a>
 </div><br>
 <div align="left">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+   
+  <a href="https://instagram.com/darkhuo10" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
      alt="Instagram" height="30" width="30"/>
-  <a href="https://instagram.com/darkhuo10" target="blank">@darkhuo10</a>
+  &nbsp;@darkhuo10
+  </a>
 </div>
 
 # Languages & Tools
