@@ -19,19 +19,6 @@
   <li>I absolutely love cats</li>
 </ul>
 
-# Social Media
-<div align="left">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"         
-    alt="LinkedIn" height="50" width="50"/> &nbsp;
-  <a href="https://www.linkedin.com/in/marina-guanghua-pintado-guerrero-a479ab268/" target="blank" style="text-decoration: none;">
-  Marina Guanghua Pintado Guerrero</a>
-</div> &nbsp;
-<div align="left">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-     alt="Instagram" height="50" width="50"/> &nbsp;
-  <a href="https://instagram.com/darkhuo10" target="blank">@darkhuo10</a>
-</div>
-
 # Languages & Tools
 <div align="center">
   <h3 align="center">Programming Languages</h3>
@@ -65,39 +52,53 @@
   <a href="https://www.mongodb.com/" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png" alt="mongodb" height="50"/> 
   </a>
+</div>
 
-  
+<div align="center">
+  <h3 align="center">Web Development</h3>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="blank">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" height="50"/>
+  </a>
+  <a href="https://www.json.org/json-en.html" target="blank">
+    <img src="https://i0.wp.com/dbaontap.com/wp-content/uploads/2015/11/json-logo.png?fit=690%2C330&ssl=1" alt="json" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/XML/XML_introduction" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/XML_icon.svg/2560px-XML_icon.svg.png" alt="xml" height="50"/>
+  </a>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  Android
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  CSS
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-  Firebase
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-  Git
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  HTML
-    
-  
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
-  Node.js
-  
- 
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-  React
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
-  Redux-Saga
-  
-  <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="sqlite" width="50" height="50"/> 
-  Spring
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/2560px-Odoo_logo_rgb.svg.png" alt="Odoo" width="50" height="50"/> 
-  Odoo
-  <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="hibernate" width="50" height="50"/> 
-  Hibernate
+  <h3 align="center">Frameworks</h3>
+  <a href="https://react.dev/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="50"/>
+  </a>
+  <a href="https://redux-saga.js.org/" target="blank">
+    <img src="https://static-00.iconduck.com/assets.00/redux-saga-icon-512x313-38irbsly.png" alt="redux-saga" height="50"/>
+  </a>
+  <a href="https://hibernate.org/" target="blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="hibernate" height="50"/> 
+  </a>
+  <a href="https://spring.io/" target="blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" height="50"/> 
+  </a>
+
+</div>
+<div align="center">
+  <h3 align="center">Other</h3>
+  <a href="https://developer.android.com/" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="android" height="50"/> 
+  </a>
+  <a href="https://git-scm.com/" target="blank">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
+  </a>
+  <a href="https://www.odoo.com/" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/2560px-Odoo_logo_rgb.svg.png" alt="odoo" height="50"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="blank">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/>
+  </a>
 </div>
 
 # GitHub Stats
