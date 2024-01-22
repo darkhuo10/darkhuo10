@@ -22,18 +22,21 @@
 # Languages & Tools
 <div align="center">
   <h3 align="center">Programming Languages</h3>
-    <a href="https://www.java.com/" target="blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50"/> 
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/> 
-    </a>
-    <a href="https://www.python.org/" target="blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/>  
-    </a>
-    <a href="https://www.php.net/manual/es/intro-whatis.php" target="blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50"/> 
-    </a>
+  <a href="https://www.java.com/" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/> 
+  </a>
+  <a href="https://www.python.org/" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/>  
+  </a>
+  <a href="https://www.php.net/manual/es/intro-whatis.php" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" height="50"/>
+  </a>
 </div>
 <div align="center">
   <h3 align="center">Database Management Systems</h3>
@@ -53,7 +56,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png" alt="mongodb" height="50"/> 
   </a>
 </div>
-
 <div align="center">
   <h3 align="center">Web Development</h3>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="blank">
@@ -67,6 +69,9 @@
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/XML/XML_introduction" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/XML_icon.svg/2560px-XML_icon.svg.png" alt="xml" height="50"/>
+  </a>
+ <a href="https://sass-lang.com/" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" height="50"/>
   </a>
 </div>
 <div align="center">
