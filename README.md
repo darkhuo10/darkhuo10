@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/github/followers/darkhuo10?color=004f94&style=for-the-badge&labelColor=5c5c5c" />
 </div>
 
--Emails: **marinaguanghua@gmail.com** | **darkhuoyt@gmail.com**<br>
+## Emails: **marinaguanghua@gmail.com** | **darkhuoyt@gmail.com**<br>
 
-# About me
+## About me
 <ul>
   <li> My name is Marina but I use Dark as a nickname on the Internet
   <li>I'm currently studying how to develop web apps</li>
@@ -19,7 +19,7 @@
   <li>I absolutely love cats</li>
 </ul>
 
-# Languages & Tools
+## Languages & Tools
 <div align="center">
   <h3 align="center">Programming Languages</h3>
   <a href="https://www.java.com/" target="blank">
@@ -106,7 +106,13 @@
   </a>
 </div>
 
-# GitHub Stats
+## People I've worked with
+- <a href="https://github.com/Idliketobealoli">Daniel Rodríguez</a>
+
+## Public repositories I've worked on
+- <a href="https://github.com/Idliketobealoli/proyectoParaDWEServidor">/Idliketobealoli/proyectoParaDWEServidor</a>
+
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkhuo10&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"   height="200"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkhuo10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="200"/>
