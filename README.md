@@ -109,9 +109,6 @@
 ## People I've worked with
 - <a href="https://github.com/Idliketobealoli">Daniel Rodríguez</a>
 
-## Public repositories I've worked on
-- <a href="https://github.com/Idliketobealoli/proyectoParaDWEServidor">/Idliketobealoli/proyectoParaDWEServidor</a>
-<!--- <a href="https://github.com/Idliketobealoli/TFG-DAW-Backend-fastapi">/Idliketobealoli/TFG-DAW-Backend-fastapi</a>-->
 
 
 ## GitHub Stats
