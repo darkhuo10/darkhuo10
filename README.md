@@ -86,7 +86,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" height="50"/> 
   </a>
   <a href="https://devdocs.io/fastapi/">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi"S height="50"/>
   </a>
   <a href="https://angular.dev/">
     <img  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" height="50"/>
