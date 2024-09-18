@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/followers/darkhuo10?color=004f94&style=for-the-badge&labelColor=5c5c5c" />
 </div>
 
-## Emails: **marinaguanghua@gmail.com** | **darkhuoyt@gmail.com**<br>
+## Email: **marinaguanghua@gmail.com**<br>
 
 ## About me
 - My name is Marina but I use Dark as a nickname on the Internet
