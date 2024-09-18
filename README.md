@@ -4,9 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=darkhuo10&label=Profile%20views&color=004f94&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/darkhuo10?color=004f94&style=for-the-badge&labelColor=5c5c5c" />
 </div>
-
-<h2 align="center">Email: **marinaguanghua@gmail.com**</h2><br>
-
+## Email: **marinaguanghua@gmail.com**<br>
 ## About me
 - My name is Marina but I use Dark as a nickname on the Internet
 - I'm currently studying how to develop web apps
