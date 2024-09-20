@@ -112,6 +112,7 @@
 
 ## People I've worked with
 - <a href="https://github.com/Idliketobealoli">Daniel Rodríguez</a>
+- <a href="https://github.com/ESS-CiberData">Estrella Soto</a>
 
 
 
