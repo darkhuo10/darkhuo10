@@ -9,9 +9,9 @@
 
 ## About me
 - My name is Marina but I use Dark as a nickname on the Internet
-- I'm currently studying how to develop web apps
-- I know how to develop desktop and Android apps
-- I'm also interested in cybersecurity and quantum physics
+- I'm currently studying cybersecurity
+- I know how to develop desktop, Android and web apps
+- I'm also interested in quantum physics and psychology
 - I speak English, Spanish and Chinese 
 - I'm from Spain, but I was born in China
 - I absolutely love [cats](https://www.nationalgeographic.com/animals/mammals/facts/domestic-cat)
@@ -19,76 +19,76 @@
 ## Languages & Tools
 <div align="center">
   <h3 align="center">Programming Languages</h3>
-  <a href="https://www.java.com/">
+  <a href="https://www.java.com/" title="Java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50"/> 
   </a>
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50"/>  
   </a>
-  <a href="https://www.php.net/manual/es/intro-whatis.php">
+  <a href="https://www.php.net/manual/es/intro-whatis.php" title="PHP">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="50"/> 
   </a>
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" height="50"/>
   </a>
 </div>
 <div align="center">
   <h3 align="center">Database Management Systems</h3>
-  <a href="https://mariadb.org/">
+  <a href="https://mariadb.org/" title="MariaDB">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" height="50"/> 
   </a>
-  <a href="https://www.mysql.com/">
+  <a href="https://www.mysql.com/" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> 
   </a>
-  <a href="https://www.sqlite.org/">
+  <a href="https://www.sqlite.org/" title="SQLite">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50"/> 
   </a>
-  <a href="https://www.postgresql.org/">
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="50"/> 
   </a>
-  <a href="https://www.mongodb.com/"">
+  <a href="https://www.mongodb.com/" title="MongoDB">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1280px-MongoDB_Logo.svg.png" alt="mongodb" height="50"/> 
   </a>
 </div>
 <div align="center">
   <h3 align="center">Web Development</h3>
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML" title="HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/>
   </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS" title="CSS">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" height="50"/>
   </a>
-  <a href="https://www.json.org/json-en.html">
+  <a href="https://www.json.org/json-en.html" title="JSON">
     <img src="https://i0.wp.com/dbaontap.com/wp-content/uploads/2015/11/json-logo.png?fit=690%2C330&ssl=1" alt="json" height="50"/>
   </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/XML/XML_introduction">
+  <a href="https://developer.mozilla.org/es/docs/Web/XML/XML_introduction" title="XML">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/XML_icon.svg/2560px-XML_icon.svg.png" alt="xml" height="50"/>
   </a>
- <a href="https://sass-lang.com/">
+ <a href="https://sass-lang.com/" title="Sass">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" height="50"/>
   </a>
 </div>
 <div align="center">
   <h3 align="center">Frameworks</h3>
-  <a href="https://react.dev/">
+  <a href="https://react.dev/" title="React">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" height="50"/>
   </a>
-  <a href="https://redux-saga.js.org/">
+  <a href="https://redux-saga.js.org/" title="Redux">
     <img src="https://static-00.iconduck.com/assets.00/redux-saga-icon-512x313-38irbsly.png" alt="redux-saga" height="50"/>
   </a>
-  <a href="https://hibernate.org/">
+  <a href="https://hibernate.org/" title="Hibernate">
     <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="hibernate" height="50"/> 
   </a>
-  <a href="https://spring.io/">
+  <a href="https://spring.io/" title="Spring">
     <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" height="50"/> 
   </a>
-  <a href="https://devdocs.io/fastapi/">
+  <a href="https://devdocs.io/fastapi/" title="FastAPI">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi"S height="50"/>
   </a>
-  <a href="https://angular.dev/">
+  <a href="https://angular.dev/" title="Angular">
     <img  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" height="50"/>
   </a>
 
