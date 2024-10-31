@@ -96,16 +96,16 @@
 </div>
 <div align="center">
   <h3 align="center">Other</h3>
-  <a href="https://developer.android.com/">
+  <a href="https://developer.android.com/" title="Android">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="android" height="50"/> 
   </a>
-  <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/" title="Git">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
   </a>
-  <a href="https://www.odoo.com/">
+  <a href="https://www.odoo.com/" title="Odoo">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/2560px-Odoo_logo_rgb.svg.png" alt="odoo" height="50"/> 
   </a>
-  <a href="https://firebase.google.com/">
+  <a href="https://firebase.google.com/" title="Firebase">
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/>
   </a>
 </div>
