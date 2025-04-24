@@ -9,12 +9,11 @@
 
 ## About me
 - My name is Marina but I use Dark as a nickname on the Internet
-- I'm currently studying cybersecurity
-- I know how to develop desktop, Android and web apps
+- Software developer & cybersecurity student
+- Martial artist
 - I'm also interested in quantum physics and psychology
 - I speak English, Spanish and Chinese 
 - I'm from Spain, but I was born in China
-- I absolutely love [cats](https://www.nationalgeographic.com/animals/mammals/facts/domestic-cat)
 
 ## Languages & Tools
 <div align="center">
@@ -91,6 +90,9 @@
   <a href="https://angular.dev/" title="Angular">
     <img  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" height="50"/>
   </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" title="Flask">
+    <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQghSS8ZmLvypSZyjs8OGr2LfcU5IpWsuZeTA&s" alt="flask" height="50"/>
+  </a>
 
 
 </div>
@@ -106,8 +108,20 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Odoo_logo_rgb.svg/2560px-Odoo_logo_rgb.svg.png" alt="odoo" height="50"/> 
   </a>
   <a href="https://firebase.google.com/" title="Firebase">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/>
+      <img src="https://www.gstatic.com/devrel-devsite/prod/v02f7c7b934487be255c5f28ebb00ed6c2fde7a607ac1d91773e0036b0a06ec31/firebase/images/touchicon-180.png" alt="firebase" height="50"/>
   </a>
+  <a href="https://www.docker.com/" title="Docker">
+      <img src="https://www.docker.com/app/uploads/2023/05/symbol_blue-docker-logo.png" alt="docker" height="50"/>
+  </a>
+  <a href="https://kubernetes.io/es/" title="Kubernetes">
+      <img src="https://cursosdedesarrollo.com/wp-content/uploads/2020/03/k-logo.png" alt="kubernetes" height="50"/>
+  </a>
+  <a href="https://developer.hashicorp.com/vagrant" title="Vagrant">
+      <img src="https://whatthelogo.com/storage/logos/vagrant-274612.png" alt="vagrant" height="50"/>
+  </a>
+  <a href="https://www.jenkins.io/" title="Jenkins">
+      <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" height="50"/>
+  </a>  
 </div>
 
 ## People I've worked with
