@@ -9,7 +9,7 @@
 
 ## About me
 - My name is Marina but I use Dark as a nickname on the Internet
-- Software developer & cybersecurity student
+- Software developer & cybersecurity expert
 - Martial artist
 - I'm also interested in quantum physics and psychology
 - I speak English, Spanish and Chinese 
@@ -127,6 +127,7 @@
 ## People I've worked with
 - <a href="https://github.com/Idliketobealoli">Daniel Rodríguez</a>
 - <a href="https://github.com/jorgemartin103">Jorge Martín</a>
+- <a href="https://github.com/kimaridev">Kimari</a>
 
 
 
